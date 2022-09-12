@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alekkwar
-- 👀 I’m interested in ...
+- 👀 I’m interested in games
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on development of android apps
 - 📫 How to reach me ...
